@@ -11,5 +11,7 @@ Before run project
  
  
  Account ADMIN
+ 
  email : admin@gmail.com
+ 
  password : 1
