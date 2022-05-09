@@ -3,7 +3,9 @@
 Before run project
 
  php artisan serve
+ 
  php artisan migrate
+ 
  npm run serve
  
  
